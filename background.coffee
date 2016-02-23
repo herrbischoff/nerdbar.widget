@@ -1,4 +1,4 @@
-command: ""
+refreshFrequency: false
 
 render: (output) ->
   ""
