@@ -1,4 +1,4 @@
-command: "echo $(/usr/local/bin/kwmc query focused)"
+command: "echo $(/usr/local/bin/kwmc query window focused name)"
 
 refreshFrequency: 1000 # ms
 
