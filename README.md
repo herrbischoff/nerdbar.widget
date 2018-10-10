@@ -16,8 +16,8 @@ Then clone this repository.
 git clone https://github.com/herrbischoff/nerdbar.widget $HOME/Library/Application\ Support/Übersicht/widgets/nerdbar.widget
 ```
 
-## Send a Tip my Way
+## Caffeinating
 
-In case you feel particularly generous today, you can buy me a coffee. That would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings.
+When you find this helpful, you could buy me a coffee. Keeping me properly caffeinated accelerates things. And it would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings. It's available completely free for a reason. Still, it would be awesome.
 
-Bitcoin: `1HXi42h9Uk5LmDrq1rVv8ykaFoeARTXw9P`
+Patreon: https://www.patreon.com/herrbischoff
